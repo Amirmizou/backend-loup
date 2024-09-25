@@ -1,5 +1,8 @@
 {
   "expo": {
+
+    "entryPoint": "./App.js",
+ 
     "name": "loup-garou-local",
     "slug": "loup-garou-local",
     "version": "1.0.0",
